@@ -11,7 +11,6 @@ export default defineConfig({
     supportFile: 'cypress/support/index.ts',
     videosFolder: 'cypress/assets/videos',
     screenshotsFolder: 'cypress/assets/screenshots',
-    fixturesFolder: 'cypress/fixtures',
     downloadsFolder: 'cypress/assets/downloads',
     env: {
       allure: true,
